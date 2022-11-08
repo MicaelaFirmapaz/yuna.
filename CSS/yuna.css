@@ -1,0 +1,120 @@
+/*font-family: 'Catamaran', sans-serif;
+font-family: 'IBM Plex Serif', serif; */
+h1{
+    color: rgb(135, 86, 180);
+    font-size: 30px;
+    text-align: center;
+    font-family: Catamaran;
+}
+h2{
+    font-family: Catamaran;
+}
+
+
+nav ul li a{
+        color: aliceblue;
+        text-decoration: none;
+        background-color: blueviolet;
+        padding: 5px 18px;
+        margin: 10px 10px;
+        border-radius: 8%;
+    }
+
+nav ul li{
+            display: inline-block;
+        }
+            
+nav ul a { color: aliceblue;
+            text-decoration: none;
+            background-color: blueviolet;
+            padding: 5px 18px;
+            margin-left: 400px;
+            margin-right: 10px;
+            margin: 120px 50px;
+
+            border-radius: 8%;
+            font-family: Catamaran;
+        }
+
+
+nav ul{display: inline-block;
+}
+
+div li a{color: aliceblue;
+    background-color: blueviolet;
+    padding: 5px 18px;
+    margin: 20px 15px;
+    border-radius: 8%;
+    text-decoration: none;
+    font-family: Catamaran;
+}
+.Titulo{color: blueviolet;
+    margin-left:630px;
+   border-radius: 8%;
+    text-decoration: none;
+    font-family: Catamaran;
+    font-weight: bold;
+}
+                    
+div li{display: inline-block;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    list-style: none;
+}
+    
+
+p {
+    color: black;
+    text-align: left;
+    width: 40%;
+    font-family:IBM Plex Serif;
+}
+
+a{
+    list-style: none;
+   
+}
+article{
+    
+    height: 400 px
+    aling-items: center;
+    justify-content: :start;
+   border-width: 500px;
+}
+
+   p.pquienesomos { 
+    width: 50%;
+    height: 60%;
+    text-align: right;
+}
+p.pnovedades{ position: center;
+    left: -50%;
+    top: 50%;
+}
+.imgnovedades{
+    position: center;
+    top: 50%;
+    height: 300px;
+}
+section img{
+    position: relative;
+    left: 5%;
+}
+address{
+    font-family: IBM Plex Serif;
+}
+main{
+    padding-top: 100px 25px ;
+    padding-left: 400px;
+    padding-right: 260px;
+    margin: 50px 100px;
+    
+}
+
+
+
+                    
